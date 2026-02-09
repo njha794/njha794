@@ -1,6 +1,3 @@
-## 📄 Resume (Click Below)
-👉 https://github.com/njha794/rishav-resume
-
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">Full-Stack & ERP Developer | 3+ Years Experience</h3>
 
@@ -41,7 +38,7 @@
 
 ### 📄 Resume
 👉 **View Resume:**  
-https://github.com/njha794/rishav-resume
+https://github.com/njha794/njha794
 
 ---
 
