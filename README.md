@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<h3 align="center">Full-Stack & ERP Developer | 3+ Years Experience</h3>
+<h3 align="center">Full-Stack Developer | Python (Django) |ERP Developer | 3+ Years Experience</h3>
 
 ---
 
@@ -13,10 +13,10 @@
 ---
 
 ### 🛠️ Tech Stack
-**Backend:** PHP (CodeIgniter 3), Node.js  
-**Frontend:** React.js, React Native, JavaScript, HTML, CSS, Bootstrap  
+**Backend:**Python(Django)|Python(FastAPI)|PHP (CodeIgniter 3) |Node.js | JavaScript  
+**Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap  
 **Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools & Cloud:** Git, AWS S3 (Basic), WordPress, cPanel  
+**Tools & Cloud:** Git, AWS, cPanel  
 
 ---
 
