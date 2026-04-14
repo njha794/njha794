@@ -1,52 +1,89 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<h3 align="center">Full-Stack Developer | Python (Django) |ERP Developer | 3+ Years Experience</h3>
+<h3 align="center">Backend / Full Stack Developer | Node.js | Laravel | MySQL | AWS</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 💼 Senior Software Developer at **Lasting Software Pvt. Ltd.**
-- 🧠 Specialized in **ERP Systems** (CRM, Inventory, Purchase)
-- 🚀 Built **6+ production-ready ERP systems** for SMEs
-- ⚙️ Focused on **scalability, automation & performance optimization**
-- 🌍 Open to **Remote / UAE opportunities**
+
+* 💼 Backend / Full Stack Developer with **3+ years of experience** in building scalable ERP systems
+* 🧠 Specialized in **ERP solutions (CRM, Inventory, Purchase modules)**
+* 🚀 Delivered **6+ production-grade ERP systems** used by real SME clients
+* ⚡ Improved API performance by **20%** through database optimization
+* 🏗️ Focused on **scalable backend architecture, REST APIs & system performance**
+* 🌍 Open to **Remote / Onsite opportunities**
 
 ---
 
 ### 🛠️ Tech Stack
-**Backend:**Python(Django)|Python(FastAPI)|PHP (CodeIgniter 3) |Node.js | JavaScript  
-**Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools & Cloud:** Git, AWS, cPanel  
+
+**Backend:**
+Node.js (Express), PHP (Laravel, CodeIgniter), REST API Development
+
+**Frontend:**
+Next.js, React.js, HTML, CSS, Bootstrap
+
+**Databases:**
+MySQL, MongoDB
+
+**Cloud & DevOps:**
+AWS (EC2, S3), Docker (Basic), CI/CD (GitHub Actions)
+
+**Tools:**
+Git, GitHub, Postman
 
 ---
 
-### 📌 Key Experience Highlights
-- Improved ERP performance by **20%** via query optimization  
-- Automated purchase & inventory workflows, reducing manual effort by **30–40%**  
-- Delivered ERP solutions for **Manufacturing, Retail, Healthcare & Education**
+### 📌 Key Achievements
+
+* 🚀 Improved application performance by **20%** via query optimization
+* ⚙️ Automated business workflows reducing manual effort by **30–40%**
+* 🏢 Built ERP systems for **Manufacturing, Retail, and Service industries**
+* 🔗 Developed scalable APIs handling **business-critical operations**
 
 ---
 
-### 🚀 Notable Projects
-- **LastingERP** – Complete ERP (CRM, Inventory, Purchase)
-- **cement.lastingerp.com** – Retail ERP
-- **alea.lastingcrm.com** – Manufacturing ERP
-- **glamiva.lastingerp.com** – Laminate industry ERP
-- **homecare.lastingerp.com** – Kitchen manufacturing ERP
+### 🚀 Featured Projects
+
+#### 🔹 ERP Backend System (Multi-Module)
+
+* Developed scalable ERP backend with **CRM, Inventory, Purchase modules**
+* Implemented **role-based access & REST APIs**
+* Optimized MySQL queries for high performance
+
+#### 🔹 E-commerce Platform (Laravel)
+
+* Full-featured system with **cart, checkout, order management**
+* Integrated **payment methods (Stripe / COD)**
+* Admin panel with product & user management
+
+#### 🔹 Task Management System
+
+* Role-based task & milestone tracking system
+* Built with Laravel + MySQL + authentication system
+
+---
+
+### 📊 What I Bring
+
+* Strong understanding of **business workflows & ERP systems**
+* Experience working on **live production environments**
+* Ability to build **scalable and maintainable backend systems**
 
 ---
 
 ### 📄 Resume
-👉 **View Resume:**  
-https://github.com/njha794/njha794
+
+👉 https://github.com/njha794/njha794
 
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/rishav-kumar-488564b2
-- 📧 Email: risu794@gmail.com
-- 💻 GitHub: https://github.com/njha794
+
+* 💼 LinkedIn: https://linkedin.com/in/rishav-kumar-488564b2
+* 📧 Email: [risu794@gmail.com](mailto:risu794@gmail.com)
+* 💻 GitHub: https://github.com/njha794
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+⭐ *Open to Backend / Full Stack Developer opportunities*
+
