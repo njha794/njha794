@@ -1,16 +1,17 @@
-```md
+```md id="ahwz4f"
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
+
 <h3 align="center">
-Backend Engineer | Node.js | Laravel | MySQL | Redis | AWS | Docker
+Backend Engineer • Node.js • Laravel • MySQL • Redis • AWS
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-💼 Backend Engineer with **4+ years of production experience** building scalable ERP systems, REST APIs, and marketplace platforms.
+💼 Backend Engineer with **3+ years of experience** building scalable ERP systems, REST APIs, and business platforms.
 
-🚀 Worked on **multi-tenant ERP systems** used by multiple SME clients in production.
+🚀 Worked on **multi-tenant ERP solutions** for manufacturing, retail & service industries.
 
 ⚡ Specialized in:
 - Backend Architecture
@@ -20,157 +21,73 @@ Backend Engineer | Node.js | Laravel | MySQL | Redis | AWS | Docker
 - JWT Authentication
 - AWS Deployment
 
-🏗️ Built and optimized systems handling:
-- Inventory
-- Orders
-- Invoicing
-- CRM
-- Purchase & Vendor Management
-
-📈 Promoted 3 times at **Lasting Software Pvt. Ltd.**
+📈 Improved API response time from **1.8s → 180ms** using query optimization & indexing.
 
 🌍 Open to **Remote / Hybrid / Onsite opportunities**
 
 ---
 
-# 🚀 Tech Stack
+## ⚒️ Tech Stack
 
-## Backend
-- Node.js
-- Express.js
-- PHP
-- Laravel
-- CodeIgniter
+### Backend
+`Node.js` `Express.js` `PHP` `Laravel` `CodeIgniter`
 
-## Database
-- MySQL
-- Redis
-- MongoDB
+### Database
+`MySQL` `Redis` `MongoDB`
 
-## Cloud & DevOps
-- AWS EC2
-- AWS S3
-- Docker
-- GitHub Actions
-- Linux
-- Nginx
+### Cloud & DevOps
+`AWS` `Docker` `GitHub Actions` `Linux` `Nginx`
 
-## Frontend
-- React.js
-- Next.js
-- HTML
-- CSS
-- Bootstrap
-
-## Tools
-- Git
-- GitHub
-- Postman
-- Swagger/OpenAPI
-- Sequelize
+### Frontend
+`React.js` `Next.js` `HTML` `CSS` `Bootstrap`
 
 ---
 
-# 📌 Key Achievements
+## 🚀 Featured Projects
 
-✅ Improved API response time from **1.8s → 180ms** using query optimization & indexing
-
-✅ Reduced MySQL read load by **~45%** using Redis cache layer
-
-✅ Delivered **6+ ERP modules** for manufacturing & retail clients
-
-✅ Built scalable backend APIs for business-critical workflows
-
-✅ Automated workflows reducing manual effort by **30%+**
-
-✅ Deployed production applications on AWS EC2
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 ERP Microservice API Platform
-
-Production-grade ERP backend architecture.
-
-### Features
-- JWT Authentication
-- Refresh Token System
-- RBAC Middleware
+### 🔹 ERP Microservice Platform
+- JWT Authentication & RBAC
 - Redis Cache Layer
-- Dockerized Services
-- Inventory & Order APIs
+- Dockerized APIs
+- Inventory & Order Management
 
-### Stack
-Node.js • Express • Redis • MySQL • Docker • AWS
-
----
-
-## 🔹 ClikoPro Marketplace Platform
-
-Service marketplace platform for professionals and clients.
-
-### Features
-- Stripe Connect Escrow Payments
+### 🔹 ClikoPro Marketplace
+- Stripe Connect Escrow
 - Mission & Milestone System
 - Multi-role Dashboard
 - Real-time Notifications
-- Secure Payment Validation
 
-### Stack
-Node.js • PHP • MySQL • AWS • Stripe Connect
-
----
-
-## 🔹 Multi-Tenant ERP Platform
-
-ERP solution for SME clients.
-
-### Modules
+### 🔹 ERP Solutions
 - CRM
 - Inventory
 - Purchase
-- Reporting
-- Vendor Management
-
-### Stack
-Laravel • CodeIgniter • MySQL • Redis • AWS
+- Reporting Modules
 
 ---
 
-# 📊 What I Bring
+## 📌 Key Achievements
 
-✔ Strong understanding of ERP & business workflows
-
-✔ Production-level backend engineering experience
-
-✔ Database optimization & scalable API design
-
-✔ Real-world deployment & cloud infrastructure knowledge
-
-✔ Ability to build scalable and maintainable systems
+✅ Delivered **6+ ERP modules** for live SME clients  
+✅ Reduced MySQL read load using Redis caching  
+✅ Automated workflows reducing manual effort by **30%+**  
+✅ Deployed production applications on AWS EC2  
 
 ---
 
-# 📄 Resume
+## 📫 Connect With Me
 
-📎 Resume Repository:
-https://github.com/njha794
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn:
+💼 LinkedIn  
 https://linkedin.com/in/rishav-kumar-488564b2
 
-📧 Email:
-risu794@gmail.com
-
-💻 GitHub:
+💻 GitHub  
 https://github.com/njha794
+
+📧 Email  
+risu794@gmail.com
 
 ---
 
-⭐ Open to Backend Engineer / Node.js Developer / Laravel Developer opportunities
+<p align="center">
+⭐ Open to Backend Engineer Opportunities
+</p>
 ```
