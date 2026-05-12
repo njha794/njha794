@@ -1,93 +1,89 @@
-```md id="ahwz4f"
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-
-<h3 align="center">
-Backend Engineer • Node.js • Laravel • MySQL • Redis • AWS
-</h3>
+<h3 align="center">Backend / Full Stack Developer | Node.js | Laravel | MySQL | AWS</h3>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-💼 Backend Engineer with **3+ years of experience** building scalable ERP systems, REST APIs, and business platforms.
-
-🚀 Worked on **multi-tenant ERP solutions** for manufacturing, retail & service industries.
-
-⚡ Specialized in:
-- Backend Architecture
-- REST APIs
-- MySQL Optimization
-- Redis Caching
-- JWT Authentication
-- AWS Deployment
-
-📈 Improved API response time from **1.8s → 180ms** using query optimization & indexing.
-
-🌍 Open to **Remote / Hybrid / Onsite opportunities**
+* 💼 Backend / Full Stack Developer with **3+ years of experience** in building scalable ERP systems
+* 🧠 Specialized in **ERP solutions (CRM, Inventory, Purchase modules)**
+* 🚀 Delivered **6+ production-grade ERP systems** used by real SME clients
+* ⚡ Improved API performance by **20%** through database optimization
+* 🏗️ Focused on **scalable backend architecture, REST APIs & system performance**
+* 🌍 Open to **Remote / Onsite opportunities**
 
 ---
 
-## ⚒️ Tech Stack
+### 🛠️ Tech Stack
 
-### Backend
-`Node.js` `Express.js` `PHP` `Laravel` `CodeIgniter`
+**Backend:**
+Node.js (Express), PHP (Laravel, CodeIgniter), REST API Development
 
-### Database
-`MySQL` `Redis` `MongoDB`
+**Frontend:**
+Next.js, React.js, HTML, CSS, Bootstrap
 
-### Cloud & DevOps
-`AWS` `Docker` `GitHub Actions` `Linux` `Nginx`
+**Databases:**
+MySQL, MongoDB
 
-### Frontend
-`React.js` `Next.js` `HTML` `CSS` `Bootstrap`
+**Cloud & DevOps:**
+AWS (EC2, S3), Docker (Basic), CI/CD (GitHub Actions)
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 ERP Microservice Platform
-- JWT Authentication & RBAC
-- Redis Cache Layer
-- Dockerized APIs
-- Inventory & Order Management
-
-### 🔹 ClikoPro Marketplace
-- Stripe Connect Escrow
-- Mission & Milestone System
-- Multi-role Dashboard
-- Real-time Notifications
-
-### 🔹 ERP Solutions
-- CRM
-- Inventory
-- Purchase
-- Reporting Modules
+**Tools:**
+Git, GitHub, Postman
 
 ---
 
-## 📌 Key Achievements
+### 📌 Key Achievements
 
-✅ Delivered **6+ ERP modules** for live SME clients  
-✅ Reduced MySQL read load using Redis caching  
-✅ Automated workflows reducing manual effort by **30%+**  
-✅ Deployed production applications on AWS EC2  
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn  
-https://linkedin.com/in/rishav-kumar-488564b2
-
-💻 GitHub  
-https://github.com/njha794
-
-📧 Email  
-risu794@gmail.com
+* 🚀 Improved application performance by **20%** via query optimization
+* ⚙️ Automated business workflows reducing manual effort by **30–40%**
+* 🏢 Built ERP systems for **Manufacturing, Retail, and Service industries**
+* 🔗 Developed scalable APIs handling **business-critical operations**
 
 ---
 
-<p align="center">
-⭐ Open to Backend Engineer Opportunities
-</p>
-```
+### 🚀 Featured Projects
+
+#### 🔹 ERP Backend System (Multi-Module)
+
+* Developed scalable ERP backend with **CRM, Inventory, Purchase modules**
+* Implemented **role-based access & REST APIs**
+* Optimized MySQL queries for high performance
+
+#### 🔹 E-commerce Platform (Laravel)
+
+* Full-featured system with **cart, checkout, order management**
+* Integrated **payment methods (Stripe / COD)**
+* Admin panel with product & user management
+
+#### 🔹 Task Management System
+
+* Role-based task & milestone tracking system
+* Built with Laravel + MySQL + authentication system
+
+---
+
+### 📊 What I Bring
+
+* Strong understanding of **business workflows & ERP systems**
+* Experience working on **live production environments**
+* Ability to build **scalable and maintainable backend systems**
+
+---
+
+### 📄 Resume
+
+👉 https://github.com/njha794/njha794
+
+---
+
+### 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/rishav-kumar-488564b2
+* 📧 Email: [risu794@gmail.com](mailto:risu794@gmail.com)
+* 💻 GitHub: https://github.com/njha794
+
+---
+
+⭐ *Open to Backend / Full Stack Developer opportunities*
+
