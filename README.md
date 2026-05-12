@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<h3 align="center">Backend / Full Stack Developer | Node.js | Laravel | MySQL | AWS</h3>
+<h3 align="center">Backend / Full Stack Developer | Node.js · Express · MySQL · Redis · AWS · Docker | REST APIs · Microservices | System Design · High-Scale APIs</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 💼 Backend / Full Stack Developer with **3+ years of experience** in building scalable ERP systems
+* 💼 Backend / Full Stack Developer with **4+ years of experience** in building scalable ERP systems
 * 🧠 Specialized in **ERP solutions (CRM, Inventory, Purchase modules)**
 * 🚀 Delivered **6+ production-grade ERP systems** used by real SME clients
 * ⚡ Improved API performance by **20%** through database optimization
@@ -17,13 +17,13 @@
 ### 🛠️ Tech Stack
 
 **Backend:**
-Node.js (Express), PHP (Laravel, CodeIgniter), REST API Development
+<b>Node.js (Express), PHP (Laravel, CodeIgniter), REST API Development</b>
 
 **Frontend:**
 Next.js, React.js, HTML, CSS, Bootstrap
 
 **Databases:**
-MySQL, MongoDB
+<b>MySQL, MongoDB</b>
 
 **Cloud & DevOps:**
 AWS (EC2, S3), Docker (Basic), CI/CD (GitHub Actions)
@@ -43,6 +43,16 @@ Git, GitHub, Postman
 ---
 
 ### 🚀 Featured Projects
+
+###  🔹 ClikoPro Marketplace Platform
+Service marketplace platform for professionals and clients.
+ Features
+- Stripe Connect escrow payments
+- Mission milestone system
+- JWT Authentication
+- Real-time notifications
+- Multi-role dashboard
+
 
 #### 🔹 ERP Backend System (Multi-Module)
 
