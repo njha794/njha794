@@ -16,35 +16,14 @@ Data Analyst | SQL | Power BI | Python | ERP Reporting | Aspiring Data Engineer
 - 🌱 Currently learning **PySpark, Apache Airflow, AWS, and Data Engineering**.
 - 🌍 Open to **Data Analyst, SQL Developer, BI Developer, and Junior Data Engineer** opportunities.
 
----
-
 # 🛠️ Tech Stack
 
-## Data Analytics
-
-- SQL
-- MySQL
-- PostgreSQL
-- Power BI
-- DAX
-- Power Query
-- Advanced Excel
-- Python
-- Pandas
-- NumPy
-
-## Data Engineering
-
-- ETL
-- Data Cleaning
-- Data Transformation
-- Data Validation
-- Data Modelling
-- REST APIs
----
+| Category | Skills |
+|----------|--------|
+| 📊 **Data Analytics** | SQL, MySQL, PostgreSQL, Power BI, DAX, Power Query, Advanced Excel, Python, Pandas, NumPy |
+| ⚙️ **Data Engineering** | ETL, Data Cleaning, Data Transformation, Data Validation, Data Modelling, REST APIs |
 
 # 📊 Areas of Expertise
-
 - SQL Query Optimization
 - Dashboard Development
 - Business Intelligence
