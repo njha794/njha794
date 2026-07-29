@@ -41,16 +41,6 @@ Data Analyst | SQL | Power BI | Python | ERP Reporting | Aspiring Data Engineer
 - Data Validation
 - Data Modelling
 - REST APIs
-
-## Software Development
-
-- PHP
-- Laravel
-- CodeIgniter
-- Git
-- GitHub
-- Jira
-
 ---
 
 # 📊 Areas of Expertise
