@@ -1,99 +1,155 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<h3 align="center">Backend / Full Stack Developer | Node.js · Express · MySQL · Redis · AWS · Docker | REST APIs · Microservices | System Design · High-Scale APIs</h3>
+
+<h3 align="center">
+Data Analyst | SQL | Power BI | Python | ERP Reporting | Aspiring Data Engineer
+</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 💼 Backend / Full Stack Developer with **4+ years of experience** in building scalable ERP systems
-* 🧠 Specialized in **ERP solutions (CRM, Inventory, Purchase modules)**
-* 🚀 Delivered **6+ production-grade ERP systems** used by real SME clients
-* ⚡ Improved API performance by **20%** through database optimization
-* 🏗️ Focused on **scalable backend architecture, REST APIs & system performance**
-* 🌍 Open to **Remote / Onsite opportunities**
-
----
-
-### 🛠️ Tech Stack
-
-**Backend:**
-<b>Node.js (Express), PHP (Laravel, CodeIgniter), REST API Development</b>
-
-**Frontend:**
-Next.js, React.js, HTML, CSS, Bootstrap
-
-**Databases:**
-<b>MySQL, MongoDB</b>
-
-**Cloud & DevOps:**
-AWS (EC2, S3), Docker (Basic), CI/CD (GitHub Actions)
-
-**Tools:**
-Git, GitHub, Postman
+- 💼 Software Developer with **3 years of experience** building ERP applications and business reporting solutions.
+- 📊 Strong expertise in **SQL, ERP Reporting, Business Intelligence, and Data Analysis**.
+- 📈 Developed SQL-based reports and dashboards for **Sales, Inventory, Purchase, Vendor Management, and CRM**.
+- ⚡ Optimized complex SQL queries, improving reporting performance by **35%**.
+- 🐍 Passionate about **Python, ETL, Data Engineering, and Analytics**.
+- 🌱 Currently learning **PySpark, Apache Airflow, AWS, and Data Engineering**.
+- 🌍 Open to **Data Analyst, SQL Developer, BI Developer, and Junior Data Engineer** opportunities.
 
 ---
 
-### 📌 Key Achievements
+# 🛠️ Tech Stack
 
-* 🚀 Improved application performance by **20%** via query optimization
-* ⚙️ Automated business workflows reducing manual effort by **30–40%**
-* 🏢 Built ERP systems for **Manufacturing, Retail, and Service industries**
-* 🔗 Developed scalable APIs handling **business-critical operations**
+## Data Analytics
 
----
+- SQL
+- MySQL
+- PostgreSQL
+- Power BI
+- DAX
+- Power Query
+- Advanced Excel
+- Python
+- Pandas
+- NumPy
 
-### 🚀 Featured Projects
+## Data Engineering
 
-###  🔹 ClikoPro Marketplace Platform
-Service marketplace platform for professionals and clients.
- Features
-- Stripe Connect escrow payments
-- Mission milestone system
-- JWT Authentication
-- Real-time notifications
-- Multi-role dashboard
+- ETL
+- Data Cleaning
+- Data Transformation
+- Data Validation
+- Data Modelling
+- REST APIs
 
+## Software Development
 
-#### 🔹 ERP Backend System (Multi-Module)
-
-* Developed scalable ERP backend with **CRM, Inventory, Purchase modules**
-* Implemented **role-based access & REST APIs**
-* Optimized MySQL queries for high performance
-
-#### 🔹 E-commerce Platform (Laravel)
-
-* Full-featured system with **cart, checkout, order management**
-* Integrated **payment methods (Stripe / COD)**
-* Admin panel with product & user management
-
-#### 🔹 Task Management System
-
-* Role-based task & milestone tracking system
-* Built with Laravel + MySQL + authentication system
+- PHP
+- Laravel
+- CodeIgniter
+- Git
+- GitHub
+- Jira
 
 ---
 
-### 📊 What I Bring
+# 📊 Areas of Expertise
 
-* Strong understanding of **business workflows & ERP systems**
-* Experience working on **live production environments**
-* Ability to build **scalable and maintainable backend systems**
-
----
-
-### 📄 Resume
-
-👉 https://github.com/njha794/njha794
-
----
-
-### 📫 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/rishav-kumar-488564b2
-* 📧 Email: [risu794@gmail.com](mailto:risu794@gmail.com)
-* 💻 GitHub: https://github.com/njha794
+- SQL Query Optimization
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- ERP Reporting
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Analytics
+- Root Cause Analysis
+- Data Visualization
 
 ---
 
-⭐ *Open to Backend / Full Stack Developer opportunities*
+# 🚀 Featured Projects
 
+## 📊 Sales Dashboard Analysis
+
+**Power BI • SQL • Excel**
+
+- Interactive KPI Dashboard
+- Revenue Analysis
+- Sales Trend Analysis
+- Dynamic Filters
+- DAX Measures
+
+---
+
+## 👥 Customer Segmentation Analysis
+
+**SQL • MySQL**
+
+- Analysed 50K+ customer records
+- Window Functions
+- Customer Segmentation
+- Churn Analysis
+- Revenue Insights
+
+---
+
+## 📈 Excel Business Insights Dashboard
+
+**Excel**
+
+- Data Cleaning
+- Pivot Tables
+- XLOOKUP
+- KPI Reporting
+- Inventory Dashboard
+
+---
+
+## 🏢 ERP Reporting System
+
+**MySQL • SQL • PHP**
+
+- Sales Reports
+- Inventory Reports
+- Purchase Reports
+- Vendor Reports
+- Query Optimization
+- Reporting Automation
+
+---
+
+# 📚 Currently Learning
+
+- Apache Spark (PySpark)
+- Apache Airflow
+- AWS (S3, Glue, Athena)
+- Snowflake
+- Data Warehousing
+- Docker
+
+---
+
+# 📈 GitHub Goals
+
+- Build real-world Data Analytics projects
+- Create ETL Pipelines
+- Develop Data Engineering projects
+- Share SQL interview questions
+- Publish Power BI dashboards
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** risu794@gmail.com
+
+💼 **LinkedIn**
+https://linkedin.com/in/rishav-kumar-488564b2
+
+💻 **GitHub**
+https://github.com/njha794
+
+---
+
+⭐ Open to **Data Analyst | SQL Developer | BI Developer | Junior Data Engineer** opportunities.
